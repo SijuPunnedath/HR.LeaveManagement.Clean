@@ -396,9 +396,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Test-Development\\HR.LeaveManagement.Clean\\HR.LeaveveManagement.Application\\HR.LeaveveManagement.Application.csproj",
-      "projectName": "HR.LeaveveManagement.Application",
-      "projectPath": "D:\\Test-Development\\HR.LeaveManagement.Clean\\HR.LeaveveManagement.Application\\HR.LeaveveManagement.Application.csproj",
+      "projectUniqueName": "D:\\Test-Development\\HR.LeaveManagement.Clean\\HR.LeaveveManagement.Application\\HR.LeaveManagement.Application.csproj",
+      "projectName": "HR.LeaveManagement.Application",
+      "projectPath": "D:\\Test-Development\\HR.LeaveManagement.Clean\\HR.LeaveveManagement.Application\\HR.LeaveManagement.Application.csproj",
       "packagesPath": "C:\\Users\\SIJU\\.nuget\\packages\\",
       "outputPath": "D:\\Test-Development\\HR.LeaveManagement.Clean\\HR.LeaveveManagement.Application\\obj\\",
       "projectStyle": "PackageReference",

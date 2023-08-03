@@ -17,7 +17,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{4CDBDF48-158B-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HR.LeaveManagement.Domain", "HR.LeaveManagement.Domain\HR.LeaveManagement.Domain.csproj", "{8195CEDA-F369-4D75-82AB-9B9FC406BB73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HR.LeaveveManagement.Application", "HR.LeaveveManagement.Application\HR.LeaveveManagement.Application.csproj", "{5E60667A-733E-4E97-AC34-E6DCA5605A74}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HR.LeaveManagement.Application", "HR.LeaveveManagement.Application\HR.LeaveManagement.Application.csproj", "{5E60667A-733E-4E97-AC34-E6DCA5605A74}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
