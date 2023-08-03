@@ -1,0 +1,15 @@
+D:\Test-Development\HR.LeaveManagement.Clean\HR.LeaveveManagement.Application\bin\Debug\net7.0\HR.LeaveveManagement.Application.deps.json
+D:\Test-Development\HR.LeaveManagement.Clean\HR.LeaveveManagement.Application\bin\Debug\net7.0\HR.LeaveveManagement.Application.dll
+D:\Test-Development\HR.LeaveManagement.Clean\HR.LeaveveManagement.Application\bin\Debug\net7.0\HR.LeaveveManagement.Application.pdb
+D:\Test-Development\HR.LeaveManagement.Clean\HR.LeaveveManagement.Application\bin\Debug\net7.0\HR.LeaveManagement.Domain.dll
+D:\Test-Development\HR.LeaveManagement.Clean\HR.LeaveveManagement.Application\bin\Debug\net7.0\HR.LeaveManagement.Domain.pdb
+D:\Test-Development\HR.LeaveManagement.Clean\HR.LeaveveManagement.Application\obj\Debug\net7.0\HR.LeaveveManagement.Application.csproj.AssemblyReference.cache
+D:\Test-Development\HR.LeaveManagement.Clean\HR.LeaveveManagement.Application\obj\Debug\net7.0\HR.LeaveveManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test-Development\HR.LeaveManagement.Clean\HR.LeaveveManagement.Application\obj\Debug\net7.0\HR.LeaveveManagement.Application.AssemblyInfoInputs.cache
+D:\Test-Development\HR.LeaveManagement.Clean\HR.LeaveveManagement.Application\obj\Debug\net7.0\HR.LeaveveManagement.Application.AssemblyInfo.cs
+D:\Test-Development\HR.LeaveManagement.Clean\HR.LeaveveManagement.Application\obj\Debug\net7.0\HR.LeaveveManagement.Application.csproj.CoreCompileInputs.cache
+D:\Test-Development\HR.LeaveManagement.Clean\HR.LeaveveManagement.Application\obj\Debug\net7.0\HR.LeaveveManagement.Application.csproj.CopyComplete
+D:\Test-Development\HR.LeaveManagement.Clean\HR.LeaveveManagement.Application\obj\Debug\net7.0\HR.LeaveveManagement.Application.dll
+D:\Test-Development\HR.LeaveManagement.Clean\HR.LeaveveManagement.Application\obj\Debug\net7.0\refint\HR.LeaveveManagement.Application.dll
+D:\Test-Development\HR.LeaveManagement.Clean\HR.LeaveveManagement.Application\obj\Debug\net7.0\HR.LeaveveManagement.Application.pdb
+D:\Test-Development\HR.LeaveManagement.Clean\HR.LeaveveManagement.Application\obj\Debug\net7.0\ref\HR.LeaveveManagement.Application.dll
