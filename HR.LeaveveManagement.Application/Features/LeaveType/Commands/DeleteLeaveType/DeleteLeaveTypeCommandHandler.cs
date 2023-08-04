@@ -1,4 +1,5 @@
-﻿using HR.LeaveveManagement.Application.Contracts.Persistance;
+﻿using HR.LeaveManagement.Application.Exceptions;
+using HR.LeaveveManagement.Application.Contracts.Persistance;
 using MediatR;
 using System;
 using System.Collections.Generic;
@@ -22,8 +23,9 @@ namespace HR.LeaveManagement.Application.Features.LeaveType.Commands.DeleteLeave
         {
             var leaveTypeToDelete = await _leaveTypeRepository.GetByIdAsync(request.Id);
 
-            ////if (leaveTypeToDelete == null)
-            ////    throw new NotFoundException(nameof(Domain.Entities.LeaveType), request.Id);
+            //Verify the record exists
+            if (leaveTypeToDelete == null)
+               throw new NotFoundException(nameof(LeaveType), request.Id);
 
             await _leaveTypeRepository.DeleteAsync(leaveTypeToDelete);
 

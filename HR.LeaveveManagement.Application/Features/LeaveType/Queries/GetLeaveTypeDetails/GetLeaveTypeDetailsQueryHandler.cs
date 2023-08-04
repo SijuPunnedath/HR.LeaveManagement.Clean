@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using HR.LeaveManagement.Application.Exceptions;
 using HR.LeaveManagement.Domain;
 using HR.LeaveveManagement.Application.Contracts.Persistance;
 using MediatR;
@@ -24,8 +25,13 @@ namespace HR.LeaveveManagement.Application.Features.LeaveType.Queries.GetLeaveTy
 
         public async Task<LeaveTypeDetailsDto> Handle(GetLeaveTypeDetailsQuery request, CancellationToken cancellationToken)
         {
-           var  leaveType = await _leaveTypeRepository.GetByIdAsync(request.Id);
-           var data = _mapper.Map<LeaveTypeDetailsDto>(leaveType);
+           var  leaveType = await _leaveTypeRepository.GetByIdAsync(request.Id) ?? throw new 
+                NotFoundException(nameof(LeaveType), request.Id); ;
+            //Verify the record exists
+            //if (leaveType == null)
+            //    throw new NotFoundException(nameof(LeaveType), request.Id);
+
+            var data = _mapper.Map<LeaveTypeDetailsDto>(leaveType);
            return data;
            
         }
