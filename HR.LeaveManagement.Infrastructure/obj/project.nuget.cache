@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kIpQm4iYcrjs5zNxW7QLeBLGnHCEz61E3g0W0bKXcE9+4aqzRMyRFMzPoKBIqsnoYNzuUcsyce4DFGdChBA+uw==",
+  "success": true,
+  "projectFilePath": "D:\\Test-Development\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SIJU\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\SIJU\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\SIJU\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
