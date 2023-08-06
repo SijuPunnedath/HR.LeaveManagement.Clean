@@ -1,0 +1,17 @@
+D:\Test-Development\HR.LeaveManagement.Clean\HR.LeaveManagement.Peresistance\bin\Debug\net7.0\HR.LeaveManagement.Peresistence.deps.json
+D:\Test-Development\HR.LeaveManagement.Clean\HR.LeaveManagement.Peresistance\bin\Debug\net7.0\HR.LeaveManagement.Peresistence.dll
+D:\Test-Development\HR.LeaveManagement.Clean\HR.LeaveManagement.Peresistance\bin\Debug\net7.0\HR.LeaveManagement.Peresistence.pdb
+D:\Test-Development\HR.LeaveManagement.Clean\HR.LeaveManagement.Peresistance\bin\Debug\net7.0\HR.LeaveManagement.Application.dll
+D:\Test-Development\HR.LeaveManagement.Clean\HR.LeaveManagement.Peresistance\bin\Debug\net7.0\HR.LeaveManagement.Domain.dll
+D:\Test-Development\HR.LeaveManagement.Clean\HR.LeaveManagement.Peresistance\bin\Debug\net7.0\HR.LeaveManagement.Application.pdb
+D:\Test-Development\HR.LeaveManagement.Clean\HR.LeaveManagement.Peresistance\bin\Debug\net7.0\HR.LeaveManagement.Domain.pdb
+D:\Test-Development\HR.LeaveManagement.Clean\HR.LeaveManagement.Peresistance\obj\Debug\net7.0\HR.LeaveManagement.Peresistence.csproj.AssemblyReference.cache
+D:\Test-Development\HR.LeaveManagement.Clean\HR.LeaveManagement.Peresistance\obj\Debug\net7.0\HR.LeaveManagement.Peresistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test-Development\HR.LeaveManagement.Clean\HR.LeaveManagement.Peresistance\obj\Debug\net7.0\HR.LeaveManagement.Peresistence.AssemblyInfoInputs.cache
+D:\Test-Development\HR.LeaveManagement.Clean\HR.LeaveManagement.Peresistance\obj\Debug\net7.0\HR.LeaveManagement.Peresistence.AssemblyInfo.cs
+D:\Test-Development\HR.LeaveManagement.Clean\HR.LeaveManagement.Peresistance\obj\Debug\net7.0\HR.LeaveManagement.Peresistence.csproj.CoreCompileInputs.cache
+D:\Test-Development\HR.LeaveManagement.Clean\HR.LeaveManagement.Peresistance\obj\Debug\net7.0\HR.LeaveManagement.Peresistence.csproj.CopyComplete
+D:\Test-Development\HR.LeaveManagement.Clean\HR.LeaveManagement.Peresistance\obj\Debug\net7.0\HR.LeaveManagement.Peresistence.dll
+D:\Test-Development\HR.LeaveManagement.Clean\HR.LeaveManagement.Peresistance\obj\Debug\net7.0\refint\HR.LeaveManagement.Peresistence.dll
+D:\Test-Development\HR.LeaveManagement.Clean\HR.LeaveManagement.Peresistance\obj\Debug\net7.0\HR.LeaveManagement.Peresistence.pdb
+D:\Test-Development\HR.LeaveManagement.Clean\HR.LeaveManagement.Peresistance\obj\Debug\net7.0\ref\HR.LeaveManagement.Peresistence.dll
