@@ -10,3 +10,8 @@ D:\Test-Development\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\o
 D:\Test-Development\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net7.0\refint\HR.LeaveManagement.Infrastructure.dll
 D:\Test-Development\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net7.0\HR.LeaveManagement.Infrastructure.pdb
 D:\Test-Development\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net7.0\ref\HR.LeaveManagement.Infrastructure.dll
+D:\Test-Development\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net7.0\HR.LeaveManagement.Application.dll
+D:\Test-Development\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net7.0\HR.LeaveManagement.Domain.dll
+D:\Test-Development\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net7.0\HR.LeaveManagement.Application.pdb
+D:\Test-Development\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net7.0\HR.LeaveManagement.Domain.pdb
+D:\Test-Development\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net7.0\HR.LeaveManagement.Infrastructure.csproj.CopyComplete
